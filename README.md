@@ -1,5 +1,4 @@
 # Video-Conferencing-Website
-# Video Conferencing Website
 
 ## Overview
 
